@@ -18,9 +18,9 @@ At this point you (should) have a minimal arch install on your system.
 
 # 2. Installing WM, DM and basic packages
 
-Now we will install hte basic packages we will need to "cook" our rice the "right" way.
+Now we will install the basic packages we will need to "cook" our rice the "right" way.
 
-Firt the best Wm, claerly being AwesomeWM, will be installed:
+Firt the best WM, claerly being AwesomeWM, will be installed:
 
 ```
 sudo pacman -S awesome
@@ -37,22 +37,22 @@ Before the end of this section we should install packages that'll equip our setu
 
 
 | Type | Name |
-| --- | --- |
-|:Browser: | :Firefox: |
-|:Terminal:  |:Alacritty:|
-| :Text editor & IDE: | :NeoVim & Visual Studio Code:  |
-| :Wallpaper setter: |:Nitrogen:  |
-|:Fetch:  |:pfetch:  |
-| :Video player: |:mpv:  |
-|  :Conferencing:| :Zoom: |
-| :Transparency (not used): | :picom: |
-| :File manager: | :Thunar & ranger: |
-| :Screenshots: | :Flameshot: |
-| :Screen capture: |:OBS:  |
-| :Customisation: | :lxappearance |
-| :GTK & Icon theme: |:dracula-gtk-theme papirus-icon-theme:  |
-| :PDF/file reader:|:Zathura & zathura-pdf-mupdf :  |
-| :Communication: |:Discord & Whatsapp & Slack:  |
+|: ---: |: ---: |
+|Browser | Firefox |
+|Terminal  |Alacritty|
+| Text editor & IDE | NeoVim & Visual Studio Code  |
+| Wallpaper setter |Nitrogen  |
+|Fetch  |pfetch  |
+| Video player |mpv  |
+|  Conferencing| Zoom |
+| Transparency (not used) | picom |
+| File manager | Thunar & ranger |
+| Screenshots | Flameshot |
+| Screen capture |OBS  |
+| Customisation | lxappearance |
+| GTK & Icon theme |dracula-gtk-theme papirus-icon-theme  |
+| PDF/file reader|Zathura & zathura-pdf-mupdf   |
+| Communication |Discord & Whatsapp & Slack  |
 
 These packages can be installed all at once with the following 2 commands:
 

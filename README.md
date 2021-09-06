@@ -9,7 +9,7 @@ The base OS for this setup will be installed using Endeavour OS calamares instal
 
 To get the exact results make sure to check the following packages/options in the installer:
 
-//2 screenshots
+![fluffy rice](https://user-images.githubusercontent.com/67168743/132248695-37e7b4af-555f-4684-a791-160c608ddc6a.png)
 
 additionaly you should select one of the terminals which come prepackaged with other desktop environments (e.g. konsole, gnome terminal...). I use the xfce4-terminal.
 

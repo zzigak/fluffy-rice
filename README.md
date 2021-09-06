@@ -57,7 +57,7 @@ Before the end of this section we should install packages that'll equip our setu
 These packages can be installed all at once with the following 2 commands:
 
 ```
-sudo pacman -S firefox nitrogen alacritty neovim mpv zoom picom thunar ranger flameshot lxappearance dracula-gtk-theme papirus-icon-theme zathura zathura-pdf-mupdf discord slack
+sudo pacman -S firefox nitrogen alacritty neovim mpv zoom picom thunar ranger flameshot lxappearance dracula-gtk-theme papirus-icon-theme zathura zathura-pdf-mupdf discord 
 
 yay -S pfetch visual-studio-code-bin whatsapp-for-linux slack-desktop 
 

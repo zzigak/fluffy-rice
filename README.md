@@ -37,7 +37,7 @@ Before the end of this section we should install packages that'll equip our setu
 
 
 | Type | Name |
-|: ---: |: ---: |
+|:---: |:---: |
 |Browser | Firefox |
 |Terminal  |Alacritty|
 | Text editor & IDE | NeoVim & Visual Studio Code  |

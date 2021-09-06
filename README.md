@@ -2,7 +2,6 @@
 ## Follow this guide to get the exact same rice as mine.
 ### Time required: ~ 30 min
 
-----------
 
 # 1. Base installation
 

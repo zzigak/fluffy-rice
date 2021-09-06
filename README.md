@@ -78,4 +78,18 @@ startx
 
 # 3. Customisation
 
+Now your REAL ricing journey begins.
+
+### 1. you will customise your awesomewm
+If you have a prefferd configuration go forth and use it. In the case you want my config, you are free to copy it. I reccomend you look at how my .config folder is structured instead of just copying it mindlessly.
+
+The main changes I made to my rc.lua file are:
+- changed the theme to xresources
+- removed menu icon in the menubar
+- removed titlebars
+- changed layout order
+- enabled media keys (sound control)
+
+Will be continued...
+
 
